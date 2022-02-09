@@ -3,6 +3,5 @@ numpy
 pandas
 matplotlib
 seaborn
-warnings
 math
 sklearn
