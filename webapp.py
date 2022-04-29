@@ -58,7 +58,4 @@ def main():
     st.write("## Thank you for Visiting \nProject by Nikhil J")
         
 
-
-
-
 main()
